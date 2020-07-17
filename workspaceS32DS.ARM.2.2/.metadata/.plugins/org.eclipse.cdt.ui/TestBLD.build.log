@@ -1,0 +1,11 @@
+00:26:13 **** Incremental Build of configuration Debug_FLASH for project TestBLD ****
+make -j4 all 
+Invoking: Standard S32DS Print Size
+arm-none-eabi-size --format=berkeley TestBLD.elf
+   text	   data	    bss	    dec	    hex	filename
+   2360	      0	   3088	   5448	   1548	TestBLD.elf
+Finished building: TestBLD.siz
+ 
+
+00:26:14 Build Finished (took 312ms)
+

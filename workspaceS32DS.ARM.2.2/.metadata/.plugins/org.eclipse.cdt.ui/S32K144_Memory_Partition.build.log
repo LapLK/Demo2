@@ -1,0 +1,11 @@
+23:33:07 **** Incremental Build of configuration Debug_RAM for project S32K144_Memory_Partition ****
+make -j4 all 
+Invoking: Standard S32DS Print Size
+arm-none-eabi-size --format=berkeley S32K144_Memory_Partition.elf
+   text	   data	    bss	    dec	    hex	filename
+   2116	      0	   2064	   4180	   1054	S32K144_Memory_Partition.elf
+Finished building: S32K144_Memory_Partition.siz
+ 
+
+23:33:08 Build Finished (took 312ms)
+

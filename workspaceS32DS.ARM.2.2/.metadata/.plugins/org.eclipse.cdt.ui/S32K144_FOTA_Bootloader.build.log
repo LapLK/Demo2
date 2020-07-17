@@ -1,0 +1,11 @@
+01:16:54 **** Build of configuration Debug for project S32K144_FOTA_Bootloader ****
+make -j4 all 
+Invoking: Standard S32DS Print Size
+arm-none-eabi-size --format=berkeley S32K144_FOTA_Bootloader.elf
+   text	   data	    bss	    dec	    hex	filename
+   9216	     32	   7480	  16728	   4158	S32K144_FOTA_Bootloader.elf
+Finished building: S32K144_FOTA_Bootloader.siz
+ 
+
+01:16:54 Build Finished (took 378ms)
+

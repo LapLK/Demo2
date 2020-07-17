@@ -1,0 +1,11 @@
+23:21:40 **** Incremental Build of configuration Debug for project S32K144_FOTA_Gateway ****
+make -j4 all 
+Invoking: Standard S32DS Print Size
+arm-none-eabi-size --format=berkeley S32K144_FOTA_Gateway.elf
+   text	   data	    bss	    dec	    hex	filename
+   6208	  12604	   3240	  22052	   5624	S32K144_FOTA_Gateway.elf
+Finished building: S32K144_FOTA_Gateway.siz
+ 
+
+23:21:40 Build Finished (took 375ms)
+
