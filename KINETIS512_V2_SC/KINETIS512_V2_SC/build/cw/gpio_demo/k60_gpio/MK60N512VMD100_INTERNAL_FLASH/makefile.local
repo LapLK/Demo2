@@ -1,0 +1,57 @@
+################################################################################
+# These macros are used by makefiles and argument files.
+# When a space is included in the path and quotes (") cannot be used,
+# a _ESCAPE version of the macro is added that escapes the space with backslash (\).
+################################################################################
+
+export ENET1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/enet
+export GPIO_DEMO1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/projects/gpio_demo
+export ProjDirPath=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/build/cw/gpio_demo/k60_gpio
+export PMC_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/pmc
+export ADC17=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/adc16
+export WDOG1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/wdog
+export RCM_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/rcm
+export PMC1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/pmc
+export RCM1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/rcm
+export COMMON_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/common
+export LPTMR_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/lptmr
+export ENET1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/enet
+export UART1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/uart
+export RTC1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/rtc
+export LLWU_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/llwu
+export COMMON1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/common
+export ARM_ToolsDirEnv=$(CWInstallLocationEnv)/MCU/ARM_Tools/Command_Line_Tools
+export ADC17_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/adc16
+export ADC16_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/adc16
+export BUILD=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/build
+export WDOG1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/wdog
+export RTC_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/rtc
+export CPU_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/cpu
+export COMMON1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/common
+export PROJECTS=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/projects
+export LPTMR1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/lptmr
+export WDOG_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/wdog
+export GPIO_DEMO1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/projects/gpio_demo
+export GNU_Make_Install_DirEnv=$(CWInstallLocationEnv)/gnu/bin
+export LLWU1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/llwu
+export MCG1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/mcg
+export UART1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/uart
+export CWInstallLocationEnv=C:/Freescale/CW MCU v10.3
+export ENET_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/enet
+export RCM1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/rcm
+export CPU=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/cpu
+export SRC=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src
+export UART_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/uart
+export LINKERFILES=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/build/cw/linker files
+export LPTMR1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/lptmr
+export SMC_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/smc
+export MCUToolsBaseDirEnv=$(CWInstallLocationEnv)/MCU
+export SMC1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/smc
+export MCG_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/mcg
+export DRIVERS=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers
+export SMC1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/smc
+export RTC1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/rtc
+export LLWU1=C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/llwu
+export PMC1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/pmc
+export GPIO_DEMO_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/projects/gpio_demo
+export MCG1_ESCAPED=C:/Users/B34443/Desktop/P2\ Validation/KINETIS_100MHz_Rev2_release_validation/release/src/drivers/mcg

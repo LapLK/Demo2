@@ -11,16 +11,16 @@
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.PE.DEVICE_NAME" value="NXP_S32K1xx_S32K144F512M15"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.PE.GDB_OPTIONS" value=""/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.HARDERR" value="true"/>
-<intAttribute key="com.pemicro.debug.gdbjtag.pne.PE.HARDWARE_INTERFACE" value="0"/>
+<intAttribute key="com.pemicro.debug.gdbjtag.pne.PE.HARDWARE_INTERFACE" value="6"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.INTERR" value="true"/>
-<stringAttribute key="com.pemicro.debug.gdbjtag.pne.PE.LAST_ATTRIBUTE_HEADER" value="com.pemicro.debug.gdbjtag.pne.ml."/>
+<stringAttribute key="com.pemicro.debug.gdbjtag.pne.PE.LAST_ATTRIBUTE_HEADER" value="com.pemicro.debug.gdbjtag.pne.sda."/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.MMERR" value="true"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.NOCPERR" value="true"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.STATERR" value="true"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.STREAMING_ENABLE_PORT1" value="true"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.PE.STREAMING_SERVER_PORT1" value="10224"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.PE.USE_EXTERNAL_SERVER" value="true"/>
-<intAttribute key="com.pemicro.debug.gdbjtag.pne.algorithmIndex" value="0"/>
+<intAttribute key="com.pemicro.debug.gdbjtag.pne.algorithmIndex" value="1"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.alternativeAlgorithmPath" value=""/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.attachToRunning" value="false"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.customTrimFrequency" value="0"/>
@@ -90,7 +90,7 @@
 <intAttribute key="com.pemicro.debug.gdbjtag.pne.jtagTapNumber" value="0"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.macScript" value=""/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.macScriptEnable" value="false"/>
-<booleanAttribute key="com.pemicro.debug.gdbjtag.pne.ml.ALWAYS_ERASE" value="false"/>
+<booleanAttribute key="com.pemicro.debug.gdbjtag.pne.ml.ALWAYS_ERASE" value="true"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.ml.CYCLONE_IP" value=""/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.ml.DO_RESET_DELAY" value="false"/>
 <intAttribute key="com.pemicro.debug.gdbjtag.pne.ml.INTERFACE_PORT" value="0"/>
@@ -119,7 +119,7 @@
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.preserveMemoryTo2" value="3"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.preservePartioning" value="false"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.programtrim" value="false"/>
-<booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.ALWAYS_ERASE" value="false"/>
+<booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.ALWAYS_ERASE" value="true"/>
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.sda.CYCLONE_IP" value=""/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.DO_RESET_DELAY" value="false"/>
 <intAttribute key="com.pemicro.debug.gdbjtag.pne.sda.INTERFACE_PORT" value="0"/>
@@ -134,7 +134,7 @@
 <stringAttribute key="com.pemicro.debug.gdbjtag.pne.sda.SHIFT_FREQ" value="5000"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.SPECIFY_IP" value="false"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.SPECIFY_NETWORK_CARD" value="false"/>
-<booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.STARTUP_USE_SWD" value="true"/>
+<booleanAttribute key="com.pemicro.debug.gdbjtag.pne.sda.STARTUP_USE_SWD" value="false"/>
 <intAttribute key="com.pemicro.debug.gdbjtag.pne.selectedCoreNumber" value="1"/>
 <intAttribute key="com.pemicro.debug.gdbjtag.pne.serverPortNumber" value="7224"/>
 <booleanAttribute key="com.pemicro.debug.gdbjtag.pne.trc_eth.ALWAYS_ERASE" value="false"/>

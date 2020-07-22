@@ -1,3 +1,0 @@
- 
-
-The MCU reads the configuration (security, backdoor key, protection, …) from the location 0x400-0x410 (flash configuration field) which is a part of the bootloader.

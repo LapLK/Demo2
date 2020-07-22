@@ -1,0 +1,14 @@
+<Analysispoints>
+	<Name>AnalysispointsManager</Name>
+	<ProjectPath>C:/Users/R52953/Documents/Data/MicroController/P2r1x_validation/KINETIS_100MHz_Rev2_release/release/build/cw/lptmr_demo/k60_lptmr/SaAnalysispointsManager.apconfig</ProjectPath>
+	<MaxNumberOfCores>1</MaxNumberOfCores>
+	<Comments>Analysispoints Manager</Comments>
+	<IgnoreAll>false</IgnoreAll>
+	<SpecializedManager>
+		<Name>ARMTracepointsManager</Name>
+		<Comments>ARM Tracepoints Manager</Comments>
+	</SpecializedManager>
+	<Core>
+		<Name>0</Name>
+	</Core>
+</Analysispoints>

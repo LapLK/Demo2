@@ -1,0 +1,14 @@
+<Analysispoints>
+	<Name>AnalysispointsManager</Name>
+	<ProjectPath>C:/Users/B34443/Desktop/P2 Validation/KINETIS_100MHz_Rev2_release_validation/release/build/cw/gpio_demo/k60_gpio/SaAnalysispointsManager.apconfig</ProjectPath>
+	<MaxNumberOfCores>1</MaxNumberOfCores>
+	<Comments>Analysispoints Manager</Comments>
+	<IgnoreAll>false</IgnoreAll>
+	<SpecializedManager>
+		<Name>ARMTracepointsManager</Name>
+		<Comments>ARM Tracepoints Manager</Comments>
+	</SpecializedManager>
+	<Core>
+		<Name>0</Name>
+	</Core>
+</Analysispoints>

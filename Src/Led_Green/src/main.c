@@ -59,6 +59,7 @@ int main(void) {
     PTD-> PSOR |= 1<<PTD16;
     while(1){
     	PTD-> PCOR |= 1<<PTD16;
+//    	PTD-> PCOR |= 1<<PTD15;
     }
     return 0;
 }
